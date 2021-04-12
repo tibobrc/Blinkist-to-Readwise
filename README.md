@@ -1,6 +1,6 @@
-# Blinkist2Readwise
+# Blinkist-to-Readwise
 
-Blinkist2Readwise is a script to extract highlights from your Blinkist account and upload them to your Readwise account.  
+Blinkist-to-Readwise is a script to extract highlights from your Blinkist account and upload them to your Readwise account.  
 You also have the option to extract your Blinkist highlights to a CSV file.
 
 ## Table of Contents
